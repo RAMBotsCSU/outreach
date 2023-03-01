@@ -2,6 +2,7 @@
                    
 This is the official CSU RAMBots Outreach repository, consisting of robotics subprojects intended for use in CSU ECE Outreach events. 
 Visit us at our [website](https://projects-web.engr.colostate.edu/ece-sr-design/AY22/RamBOTs).
+Visit ECE Outreach at their [website](https://kirktopode.github.io/ECE_Outreach_Website/)
 
 Based on OpenDogV3 by James Bruton. Original repository can be found [here](https://github.com/XRobots/openDogV3)
 
