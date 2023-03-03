@@ -1,4 +1,4 @@
-# RamBOTs Deployment Repo
+# RamBOTs Outreach Repo
                    
 This is the official CSU RAMBots Outreach repository, consisting of robotics subprojects intended for use in CSU ECE Outreach events. 
 Visit us at our [website](https://projects-web.engr.colostate.edu/ece-sr-design/AY22/RamBOTs).
